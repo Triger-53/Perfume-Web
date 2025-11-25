@@ -1,0 +1,9 @@
+
+{
+  "name": "Scentify - AI-Powered Perfume Boutique",
+  "description": "An elegant e-commerce application for a luxury perfume retailer, featuring an AI-powered shopping assistant, visual and voice search, and a seamless shopping experience.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
